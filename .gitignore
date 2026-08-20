@@ -1,0 +1,10 @@
+# Media & Downloads storage
+data/
+
+# App configurations, SQLite DBs, and API keys
+config/
+
+# Local environment & system files
+.env
+*.log
+.DS_Store
